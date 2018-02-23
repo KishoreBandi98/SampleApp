@@ -1,2 +1,2 @@
 # SampleApp
-It is a sample application for testing purpose
+It is a sample application created for testing purpose
